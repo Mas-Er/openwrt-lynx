@@ -17,8 +17,7 @@ openvfd_path="${configfiles_path}/rootfs/usr/share/openvfd"
 # Add custom openwrt firmware information
 op_release="etc/flippy-openwrt-release"
 # Dependency files download repository
-#depends_repo="https://github.com/ophub/amlogic-s9xxx-armbian/tree/main/build-armbian"
-depends_repo="https://github.com/835732349/amlogic-s9xxx-armbian/tree/main/build-armbian"
+depends_repo="https://github.com/ophub/amlogic-s9xxx-armbian/tree/main/build-armbian"
 # Install/Update script files download repository
 script_repo="https://github.com/lynxnexy/packages/tree/main/luci-app-amlogic/root/usr/sbin"
 # Kernel files download repository
