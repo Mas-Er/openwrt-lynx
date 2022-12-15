@@ -92,10 +92,8 @@ OpenWrt 21.02 for `ZTE B860H` and `FiberHome HG680P` with more packages ported, 
 &emsp;&emsp;&emsp;`├─ qtools`\
 &emsp;&emsp;&emsp;`├─ xmm-modem`\
 &emsp;&emsp;&emsp;`└─ asterisk-chan-quectel`\
-&emsp;`luci-app-smstools3`\
-&emsp;`luci-app-mmcomig`\
+&emsp;`luci-app-mmconfig`\
 &emsp;`luci-app-atinout`\
-&emsp;`luci-app-cellled`
 
 
 </details>
