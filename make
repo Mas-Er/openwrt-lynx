@@ -29,6 +29,7 @@ build_kernel=("5.4.224" "5.10.155" "5.15.79")
 build_openwrt=(
     "b860h"
     "hg680p"
+    "s905x-t95"
 )
 # Set OpenWrt firmware size (Unit: MiB, SKIP_MB >= 4, BOOT_MB >= 256, ROOT_MB >= 512)
 SKIP_MB="68"
